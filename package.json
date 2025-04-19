@@ -1,0 +1,27 @@
+{
+  "name": "c2c_personalwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samhmyers/c2c_personalwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samhmyers/c2c_personalwebsite/issues"
+  },
+  "homepage": "https://github.com/Samhmyers/c2c_personalwebsite#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "highlight.js": "^11.11.1",
+    "marked": "^15.0.8"
+  }
+}
